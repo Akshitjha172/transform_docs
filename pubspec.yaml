@@ -21,15 +21,50 @@ version: 1.0.0+1
 environment:
   sdk: ^3.5.0
 
-# Dependencies specify other packages that your package needs in order to work.
-# To automatically upgrade your package dependencies to the latest versions
-# consider running `flutter pub upgrade --major-versions`. Alternatively,
-# dependencies can be manually updated by changing the version numbers below to
-# the latest version available on pub.dev. To see which dependencies have newer
-# versions available, run `flutter pub outdated`.
+
 dependencies:
   flutter:
     sdk: flutter
+  # db
+  drift: ^2.14.0
+  #store key value
+  shared_preferences: ^2.2.2
+  #font
+  google_fonts: ^6.0.0
+  #language support
+  easy_localization: ^3.0.3
+  # UUID generator
+  uuid: ^4.3.3
+  # image picker
+  image_picker: ^1.1.2
+  # SVG Image Loader
+  flutter_svg: ^2.0.9
+  # permission handler
+  permission_handler: ^11.2.0
+  # file picker
+  file_picker: ^8.1.3
+  # pdf text
+  read_pdf_text: ^0.2.3
+  # excel
+  excel: ^2.0.0
+  # path provider
+  path_provider: ^2.1.1
+  # provider
+  provider: ^6.1.1
+  intl: ^0.19.0
+  pdf: ^3.10.0
+  flutter_pdfview : ^1.3.2
+  # local auth
+  local_auth: ^2.3.0
+  # Add this for Android support
+  local_auth_android: any  
+  # Add this for iOS support
+  local_auth_darwin: any  
+  # getx
+  get: ^4.6.6
+  # flutter_screen_lock
+  flutter_screen_lock: ^9.1.0
+  
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -37,6 +72,11 @@ dependencies:
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
+  build_runner: ^2.4.8
+  floor_generator: ^1.4.2
+  chopper_generator: ^7.1.1
+  drift_dev: ^2.14.0
+
   flutter_test:
     sdk: flutter
 
@@ -59,9 +99,9 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/images/
+    - assets/langs/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

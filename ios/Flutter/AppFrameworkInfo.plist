@@ -22,5 +22,8 @@
   <string>1.0</string>
   <key>MinimumOSVersion</key>
   <string>12.0</string>
+  <key>NSFaceIDUsageDescription</key>
+<string>We need to access your Face ID for authentication.</string>
+
 </dict>
 </plist>

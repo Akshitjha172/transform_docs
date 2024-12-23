@@ -1,0 +1,29 @@
+{
+    "appName": "ट्रांसफॉर्मो डॉक्स",
+    "dashboardTitle": "डैशबोर्ड",
+    "homeTitle": "होम",
+    "profileTitle": "प्रोफ़ाइल",
+    "settingsTitle": "सेटिंग्स",
+    "preferencesTitle": "प्राथमिकताएँ",
+    "langText": "भाषा",
+    "enableAppLock": "ऐप लॉक सक्षम करें",
+    "onTitle": "चालू",
+    "offTitle": "बंद",
+    "cancelTitle": "रद्द करें",
+    "selectFileTitle": "फ़ाइल चुनें",
+    "viewJsonDataTitle": "JSON डेटा देखें",
+    "SelectedFileTitle": "चयनित फ़ाइल:",
+    "fileTypeTitle": "फ़ाइल प्रकार:",
+    "wrongFileTypeTitle": "कृपया एक वैध फ़ाइल प्रकार चुनें. आवश्यक फ़ाइल है ",
+    "copyTitle": "कॉपी",
+    "copySuccessTitle": "क्लिपबोर्ड पर कॉपी किया गया",
+    "downloadTitle": "डाउनलोड",
+    "extractedDataTitle": "निकाला गया डेटा",
+    "selectaFileTitle": "डेटा निकालने के लिए एक फ़ाइल चुनें",
+    "addTitle": "जोड़ें",
+    "uploadTitle": "दस्तावेज़ अपलोड करें",
+    "recentFilesTitle": "हाल की फ़ाइलें",
+    "viewAllTitle": "सभी देखें"
+
+  }
+  

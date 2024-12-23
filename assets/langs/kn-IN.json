@@ -1,0 +1,28 @@
+{
+    "appName": "ಟ್ರಾನ್ಸ್‌ಫಾರ್ಮೋ ಡಾಕ್ಸ್",
+    "dashboardTitle": "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್",
+    "homeTitle": "ಮುಖಪುಟ",
+    "profileTitle": "ಪ್ರೊಫೈಲ್",
+    "settingsTitle": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "preferencesTitle": "ಆಸಕ್ತಿಗಳು",
+    "langText": "ಭಾಷೆ",
+    "enableAppLock": "ಅನ್ವಯ ಲಾಕ್ ಸಕ್ರಿಯಗೊಳಿಸಿ",
+    "onTitle": "ಆನ್",
+    "offTitle": "ಆಫ್",
+    "cancelTitle": "ರದ್ದುಮಾಡಿ",
+    "selectFileTitle": "ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ",
+    "viewJsonDataTitle": "JSON ಡೇಟಾ ವೀಕ್ಷಿಸಿ",
+    "SelectedFileTitle": "ಆಯ್ಕೆಮಾಡಲಾದ ಫೈಲ್:",
+    "fileTypeTitle": "ಫೈಲ್ ಪ್ರಕಾರ:",
+    "wrongFileTypeTitle": "ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಫೈಲ್ ಪ್ರಕಾರವನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಅಗತ್ಯ ಫೈಲ್ ಪ್ರಕಾರವು",
+    "copyTitle": "ನಕಲಿಸಿ",
+    "copySuccessTitle": "ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ನಕಲಿಸಲಾಗಿದೆ",
+    "downloadTitle": "ಡೌನ್‌ಲೋಡ್",
+    "extractedDataTitle": "ಎಕ್ಸ್‌ಟ್ರ್ಯಾಕ್ಟೆಡ್ ಡೇಟಾ",
+    "selectaFileTitle": "ಡೇಟಾವನ್ನು ಎಕ್ಸ್‌ಟ್ರ್ಯಾಕ್ಟ್ ಮಾಡಲು ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ",
+    "addTitle":"ಸೇರಿಸಿ" ,
+    "uploadTitle":"ದಸ್ತಾವೇಜನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+    "recentFilesTitle":"ಇತ್ತೀಚಿನ ಫೈಲ್‌ಗಳು",
+    "viewAllTitle":"ಎಲ್ಲಾ ವೀಕ್ಷಿಸಿ"
+  }
+  
