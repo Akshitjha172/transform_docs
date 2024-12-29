@@ -1,4 +1,4 @@
-package com.example.transform_docs
+package com.appspace.transform_docs
 
 import io.flutter.embedding.android.FlutterFragmentActivity
 

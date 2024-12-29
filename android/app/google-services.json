@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "214790286578",
+    "project_id": "transformo-docs-12336",
+    "storage_bucket": "transformo-docs-12336.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214790286578:android:2acc9d83f860730ae4746b",
+        "android_client_info": {
+          "package_name": "com.appspace.transform_docs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzkF_iuwO70ENzAtuEMY5DNveP4LC_N08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

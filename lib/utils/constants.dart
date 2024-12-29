@@ -5,7 +5,7 @@
 
 class Constants {
   static const String appName = 'appName';
-  static const String appVersion = ' Version: 1.0.0+1';
+  static const String appVersion = ' Version: 1.0.1+2';
   static const String dashboardTitle = 'dashboardTitle';
   static const String homeTitle = 'homeTitle';
   static const String profileTitle = 'profileTitle';
